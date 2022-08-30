@@ -4,8 +4,8 @@
 **mathurpulkit/mathurpulkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🎓 I am Pulkit Mathur, currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur(2019-2023).
-- 🔭 I’m currently working on Variational Deep Learning at [IvLabs](https://www.ivlabs.in/), an AI and Robotics community in VNIT Nagpur.
-- 🌱 I’m currently learning about the various advances in Artificial Intelligence, especially in the field of Deep Learning and using Deep Learning in the Medical Domain.
+- 🔭 I worked in the past on Variational Deep Learning and Generative Models.
+- 🌱 I’m currently learning about the various advances in Artificial Intelligence, especially in the field of Deep Learning.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
