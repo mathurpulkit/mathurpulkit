@@ -15,7 +15,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy%20-%2305122A.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pytorch](https://img.shields.io/badge/Pytorch%20-%2305122A.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mathurpulkit)](https://github.com/mathurpulkit/github-readme-stats)
+<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mathurpulkit)](https://github.com/mathurpulkit/github-readme-stats) -->
 
 <a href="https://www.linkedin.com/in/pulkit-mathur"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:pmathur2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
