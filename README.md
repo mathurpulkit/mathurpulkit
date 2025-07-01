@@ -3,7 +3,7 @@
 <!--
 **mathurpulkit/mathurpulkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🎓 I am Pulkit Mathur, currently pursuing a Masters in Computer Engineering at New York University Tandon School of Engineering.
+- 🎓 I am Pulkit Mathur, currently finished a Masters in Computer Engineering at New York University Tandon School of Engineering.
 - 🎓 I completed my Bachelor of Technology in Computer Science and Engineering from Visvesvaraya National Institute of Technology, Nagpur.
 - 🔭 I worked in the past on Variational Deep Learning and Generative Models.
 - 🌱 I’m currently learning about the various advances in Artificial Intelligence, especially in the field of Deep Learning.
